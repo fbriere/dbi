@@ -58,6 +58,7 @@ $drh = undef;		# holds driver handle once initialised
     'PrintError' => 'local',
     'RaiseError' => 'local',
     'HandleError' => 'local',
+    'HandleSetErr' => 'local',
     'TraceLevel' => 'cached',
     'CompatMode' => 'local',
 );
